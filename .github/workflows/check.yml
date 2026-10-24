@@ -1,4 +1,5 @@
 name: VPN Gate Node Check
+
 on:
   schedule:
     - cron: "0 0 * * *"
